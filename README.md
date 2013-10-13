@@ -1,0 +1,1 @@
+Just a project for myself (but others may be interested as well) to learn some Renderscript for Android. This is intended to be a demo app in order to see how can be done with RS.
