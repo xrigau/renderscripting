@@ -1,19 +1,27 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+    android:id="@+id/action_grayscale"
+    android:title="@string/action_grayscale"
+    android:icon="@android:drawable/ic_menu_gallery"
+    android:showAsAction="never" />
+
   <item
     android:id="@+id/action_blur"
     android:title="@string/action_blur"
     android:icon="@android:drawable/ic_menu_edit"
-    android:showAsAction="always" />
-
-  <item
-    android:id="@+id/action_reset"
-    android:title="@string/action_reset"
-    android:icon="@android:drawable/ic_menu_revert"
-    android:showAsAction="always" />
+    android:showAsAction="never" />
 
   <item
     android:id="@+id/action_next"
     android:title="@string/action_next"
     android:icon="@android:drawable/ic_media_next"
-    android:showAsAction="ifRoom" />
+    android:showAsAction="never" />
+
+  <item
+    android:id="@+id/action_reset"
+    android:title="@string/action_reset"
+    android:icon="@android:drawable/ic_menu_revert"
+    android:showAsAction="never" />
+
 </menu>

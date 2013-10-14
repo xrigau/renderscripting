@@ -2,8 +2,9 @@
 <resources>
 
   <string name="app_name">Renderscripting</string>
+  <string name="action_grayscale">Grayscale image</string>
   <string name="action_blur">Blur image</string>
-  <string name="action_reset">Reset image</string>
   <string name="action_next">Next image</string>
+  <string name="action_reset">Reset image</string>
 
 </resources>
